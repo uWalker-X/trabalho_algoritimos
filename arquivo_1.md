@@ -1,7 +1,7 @@
 com o objetivo de diminuir a quantidade de arquivos, alguns deles responderão mais de uma questão
 
 - nosso primeiro arquivo terá como foco responder as questões 1,2,3, 9 e 13
-> o primeiro arquivo além responder 5 questões, adiciona um comando em loop na questão 13, que será melhor desenvolvido no arquivo
+> o primeiro arquivo além responder 5 questões, adiciona um comando em loop na questão 3, que será melhor desenvolvido no arquivo
 
 > indentificando alguns sinônimos:
 >- "Algoritmo" - nome do arquivo
