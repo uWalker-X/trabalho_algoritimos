@@ -8,7 +8,7 @@ esse arquivo responderá as questões 4 e 12
 >- ":=" outro recurso usado para resultado ou = (igual)
 >- "=" condição de igual
 
-    Algoritmo "where have you been?"
+    Algoritmo "arquivo 4"
     //este programa inclui as questões 4 e 12 do exercício de algoritmos
 
     //4)desenvolva um programa que leia dois números inteiros e some eles
