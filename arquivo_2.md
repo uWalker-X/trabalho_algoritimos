@@ -8,7 +8,7 @@ o arquivo 3 responderá as questões 6 e 7
 >- "-" sinal usado para subtração
 >-  "<-" usado para resultado ou '='
 
-    Algoritmo "just imagine you're out there"
+    Algoritmo "arquivo 2"
 
     //este algoritimo inclui as questões 6 e 7 do exercio de algoritmos
 
