@@ -6,6 +6,7 @@ o arquivo 3 responde a questão 5
 >-  "fimalgoritmo" - fim do código
 >-  "+" comando usado para adição
 >-  "/" comando usado para divisão
+>-  ":=" outro recurso usado para resultado ou = (igual)
 
     Algoritmo "Specialist > lyrics: Jazz"
     //5) crie um programa que faça a média de pontos de um aluno em uma matéria
