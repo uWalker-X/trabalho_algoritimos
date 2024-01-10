@@ -6,7 +6,7 @@ o arquivo 3 responderá as questões 6 e 7
 >- "fimalgoritmo" - fim do código
 >- "*" sinal usado para multiplição
 >- "-" sinal usado para subtração
->-  "<-" usado para resultado ou '='
+>-  "<-" usado para resultado ou = (igual)
 
     Algoritmo "arquivo 2"
 
