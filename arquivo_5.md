@@ -9,7 +9,7 @@ esse arquivo irá responder a questão 8
 >- ":=" - usado para resultado ou = (igual)
 
     Algoritmo "arquivo 5"
-    //crie um programa que leia a distância em metros e mostre em outras unidades de medida
+    //8)crie um programa que leia a distância em metros e mostre em outras unidades de medida
 
 
     Var
