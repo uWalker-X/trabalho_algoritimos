@@ -1,4 +1,4 @@
-esse arquivo irá responder a questão 10
+esse arquivo irá responder a questão 8
 >- "//" - comentário
 >- "algoritmo" - nome do programa
 >- "var" - declaração de variável
